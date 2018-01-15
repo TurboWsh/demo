@@ -1,6 +1,5 @@
-package com.trs.excl.utils;
+package com.demo.utils;
 
-import com.trs.excl.api.ExclCls;
 import org.springframework.stereotype.Component;
 
 import javax.annotation.PostConstruct;
